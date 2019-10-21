@@ -366,8 +366,8 @@ go build
 
 ## ruby
 cd /var/www/webapp/ruby
-gem install bundler
-bundle install
+# gem install bundler
+# bundle install
 
 ## php
 cd /var/www/webapp/php
